@@ -1,0 +1,686 @@
+Year,ST,STATE,OCC_CODE,OCC_TITLE,LOC_Q,A_MEAN,H_MEAN,TOT_EMP
+2017,AL,Alabama,15-0000,Computer and Mathematical Occupations,0.69,81870,39.36,39760
+2017,AL,Alabama,15-1121,Computer Systems Analysts,0.51,81960,39.41,4010
+2017,AL,Alabama,15-1122,Information Security Analysts,0.78,89320,42.94,1100
+2017,AL,Alabama,15-1131,Computer Programmers,2.22,87700,42.17,7420
+2017,AL,Alabama,15-1132,"Software Developers, Applications",0.48,92360,44.4,5540
+2017,AL,Alabama,15-1133,"Software Developers, Systems Software",0.7,103380,49.7,3720
+2017,AL,Alabama,15-1134,Web Developers,0.35,59560,28.63,600
+2017,AL,Alabama,15-1141,Database Administrators,1.24,82740,39.78,1910
+2017,AL,Alabama,15-1142,Network and Computer Systems Administrators,0.84,74050,35.6,4230
+2017,AL,Alabama,15-1143,Computer Network Architects,0.39,101870,48.97,830
+2017,AL,Alabama,15-1151,Computer User Support Specialists,0.72,48530,23.33,5930
+2017,AL,Alabama,15-1152,Computer Network Support Specialists,0.4,62420,30.01,1000
+2017,AL,Alabama,15-1199,"Computer Occupations, All Other",0.42,87900,42.26,1810
+2017,AK,Alaska,15-0000,Computer and Mathematical Occupations,0.57,81820,39.34,5450
+2017,AK,Alaska,15-1121,Computer Systems Analysts,0.66,72860,35.03,860
+2017,AK,Alaska,15-1122,Information Security Analysts,0.31,96390,46.34,70
+2017,AK,Alaska,15-1131,Computer Programmers,1.08,92970,44.7,600
+2017,AK,Alaska,15-1132,"Software Developers, Applications",0.18,*,*,340
+2017,AK,Alaska,15-1133,"Software Developers, Systems Software",0.14,*,*,130
+2017,AK,Alaska,15-1134,Web Developers,0.68,60040,28.87,190
+2017,AK,Alaska,15-1141,Database Administrators,0.8,81770,39.31,200
+2017,AK,Alaska,15-1142,Network and Computer Systems Administrators,1.22,83770,40.27,1020
+2017,AK,Alaska,15-1143,Computer Network Architects,0.25,107630,51.75,90
+2017,AK,Alaska,15-1151,Computer User Support Specialists,0.61,59640,28.67,830
+2017,AK,Alaska,15-1152,Computer Network Support Specialists,0.77,59310,28.52,320
+2017,AK,Alaska,15-1199,"Computer Occupations, All Other",0.77,93100,44.76,540
+2017,AZ,Arizona,15-0000,Computer and Mathematical Occupations,1.16,82940,39.87,93490
+2017,AZ,Arizona,15-1111,Computer and Information Research Scientists,0.49,109530,52.66,260
+2017,AZ,Arizona,15-1121,Computer Systems Analysts,1.19,88010,42.31,13170
+2017,AZ,Arizona,15-1122,Information Security Analysts,1.41,88270,42.44,2820
+2017,AZ,Arizona,15-1131,Computer Programmers,0.94,88700,42.64,4410
+2017,AZ,Arizona,15-1132,"Software Developers, Applications",0.93,96120,46.21,14970
+2017,AZ,Arizona,15-1133,"Software Developers, Systems Software",1.51,103990,50,11330
+2017,AZ,Arizona,15-1134,Web Developers,1.08,71180,34.22,2570
+2017,AZ,Arizona,15-1141,Database Administrators,1.12,85060,40.89,2420
+2017,AZ,Arizona,15-1142,Network and Computer Systems Administrators,1.05,82770,39.79,7480
+2017,AZ,Arizona,15-1143,Computer Network Architects,0.93,101760,48.93,2780
+2017,AZ,Arizona,15-1151,Computer User Support Specialists,1.2,50420,24.24,13950
+2017,AZ,Arizona,15-1152,Computer Network Support Specialists,1.47,66320,31.89,5180
+2017,AZ,Arizona,15-1199,"Computer Occupations, All Other",1.19,83390,40.09,7150
+2017,AR,Arkansas,15-0000,Computer and Mathematical Occupations,0.66,68360,32.87,23850
+2017,AR,Arkansas,15-1111,Computer and Information Research Scientists,0.16,96190,46.24,40
+2017,AR,Arkansas,15-1121,Computer Systems Analysts,0.72,69970,33.64,3530
+2017,AR,Arkansas,15-1122,Information Security Analysts,1.98,83070,39.94,1750
+2017,AR,Arkansas,15-1131,Computer Programmers,0.98,69520,33.43,2040
+2017,AR,Arkansas,15-1132,"Software Developers, Applications",0.52,87500,42.07,3690
+2017,AR,Arkansas,15-1133,"Software Developers, Systems Software",0.38,82580,39.7,1260
+2017,AR,Arkansas,15-1134,Web Developers,0.32,51370,24.7,340
+2017,AR,Arkansas,15-1141,Database Administrators,0.65,78470,37.73,630
+2017,AR,Arkansas,15-1142,Network and Computer Systems Administrators,0.86,67010,32.22,2720
+2017,AR,Arkansas,15-1143,Computer Network Architects,0.58,86400,41.54,780
+2017,AR,Arkansas,15-1151,Computer User Support Specialists,0.69,40630,19.53,3570
+2017,AR,Arkansas,15-1152,Computer Network Support Specialists,1.11,46350,22.28,1750
+2017,AR,Arkansas,15-1199,"Computer Occupations, All Other",0.28,72420,34.82,750
+2017,CA,California,15-0000,Computer and Mathematical Occupations,1.18,105380,50.66,590550
+2017,CA,California,15-1111,Computer and Information Research Scientists,1.76,128530,61.8,5750
+2017,CA,California,15-1121,Computer Systems Analysts,1.07,102860,49.45,72980
+2017,CA,California,15-1122,Information Security Analysts,0.69,108090,51.97,8470
+2017,CA,California,15-1131,Computer Programmers,1.17,96270,46.28,34050
+2017,CA,California,15-1132,"Software Developers, Applications",1.43,126470,60.8,141870
+2017,CA,California,15-1133,"Software Developers, Systems Software",1.79,127230,61.17,82630
+2017,CA,California,15-1134,Web Developers,1.43,84270,40.51,21150
+2017,CA,California,15-1141,Database Administrators,0.9,95630,45.98,12030
+2017,CA,California,15-1142,Network and Computer Systems Administrators,0.93,96420,46.35,40700
+2017,CA,California,15-1143,Computer Network Architects,0.91,128770,61.91,16900
+2017,CA,California,15-1151,Computer User Support Specialists,0.96,63660,30.6,69030
+2017,CA,California,15-1152,Computer Network Support Specialists,0.8,76830,36.94,17420
+2017,CA,California,15-1199,"Computer Occupations, All Other",1.3,98460,47.34,47930
+2017,CO,Colorado,15-0000,Computer and Mathematical Occupations,1.43,95240,45.79,109450
+2017,CO,Colorado,15-1111,Computer and Information Research Scientists,0.81,116400,55.96,410
+2017,CO,Colorado,15-1121,Computer Systems Analysts,0.79,96310,46.3,8240
+2017,CO,Colorado,15-1122,Information Security Analysts,1.52,103210,49.62,2870
+2017,CO,Colorado,15-1131,Computer Programmers,0.73,96100,46.2,3260
+2017,CO,Colorado,15-1132,"Software Developers, Applications",1.79,104620,50.3,27210
+2017,CO,Colorado,15-1133,"Software Developers, Systems Software",1.87,122170,58.73,13260
+2017,CO,Colorado,15-1134,Web Developers,0.95,71490,34.37,2140
+2017,CO,Colorado,15-1141,Database Administrators,1.21,92790,44.61,2470
+2017,CO,Colorado,15-1142,Network and Computer Systems Administrators,1.58,84060,40.41,10600
+2017,CO,Colorado,15-1143,Computer Network Architects,1.75,109840,52.81,4960
+2017,CO,Colorado,15-1151,Computer User Support Specialists,1.29,60170,28.93,14190
+2017,CO,Colorado,15-1152,Computer Network Support Specialists,1.08,70190,33.74,3620
+2017,CO,Colorado,15-1199,"Computer Occupations, All Other",2.54,98570,47.39,14390
+2017,CT,Connecticut,15-0000,Computer and Mathematical Occupations,1,91740,44.11,49630
+2017,CT,Connecticut,15-1111,Computer and Information Research Scientists,0.14,*,*,50
+2017,CT,Connecticut,15-1121,Computer Systems Analysts,1.06,95670,46,7170
+2017,CT,Connecticut,15-1122,Information Security Analysts,0.86,*,*,1050
+2017,CT,Connecticut,15-1131,Computer Programmers,1.83,87610,42.12,5250
+2017,CT,Connecticut,15-1132,"Software Developers, Applications",1.07,103390,49.71,10500
+2017,CT,Connecticut,15-1133,"Software Developers, Systems Software",0.93,104510,50.25,4250
+2017,CT,Connecticut,15-1134,Web Developers,0.83,76310,36.69,1210
+2017,CT,Connecticut,15-1141,Database Administrators,0.99,97670,46.96,1310
+2017,CT,Connecticut,15-1142,Network and Computer Systems Administrators,0.72,91550,44.02,3140
+2017,CT,Connecticut,15-1143,Computer Network Architects,0.92,120700,58.03,1680
+2017,CT,Connecticut,15-1151,Computer User Support Specialists,1.19,58390,28.07,8490
+2017,CT,Connecticut,15-1152,Computer Network Support Specialists,0.46,80780,38.84,1000
+2017,CT,Connecticut,15-1199,"Computer Occupations, All Other",0.51,99110,47.65,1880
+2017,DE,Delaware,15-0000,Computer and Mathematical Occupations,1.33,92630,44.54,17560
+2017,DE,Delaware,15-1121,Computer Systems Analysts,1.63,96440,46.36,2950
+2017,DE,Delaware,15-1122,Information Security Analysts,1.89,103590,49.8,620
+2017,DE,Delaware,15-1131,Computer Programmers,1.47,77200,37.12,1130
+2017,DE,Delaware,15-1132,"Software Developers, Applications",1.76,102250,49.16,4640
+2017,DE,Delaware,15-1133,"Software Developers, Systems Software",**,122050,58.68,**
+2017,DE,Delaware,15-1134,Web Developers,0.75,69280,33.31,290
+2017,DE,Delaware,15-1141,Database Administrators,2.26,91430,43.96,800
+2017,DE,Delaware,15-1142,Network and Computer Systems Administrators,1.17,79960,38.44,1360
+2017,DE,Delaware,15-1143,Computer Network Architects,1.4,124310,59.76,680
+2017,DE,Delaware,15-1151,Computer User Support Specialists,0.98,57990,27.88,1860
+2017,DE,Delaware,15-1152,Computer Network Support Specialists,0.97,69050,33.2,560
+2017,FL,Florida,15-0000,Computer and Mathematical Occupations,0.79,76420,36.74,198940
+2017,FL,Florida,15-1111,Computer and Information Research Scientists,0.32,105560,50.75,530
+2017,FL,Florida,15-1121,Computer Systems Analysts,0.61,82210,39.52,20880
+2017,FL,Florida,15-1122,Information Security Analysts,0.84,86630,41.65,5240
+2017,FL,Florida,15-1131,Computer Programmers,0.73,79770,38.35,10670
+2017,FL,Florida,15-1132,"Software Developers, Applications",0.68,90770,43.64,34270
+2017,FL,Florida,15-1133,"Software Developers, Systems Software",0.71,101090,48.6,16500
+2017,FL,Florida,15-1134,Web Developers,0.93,62290,29.95,6930
+2017,FL,Florida,15-1141,Database Administrators,1.11,84860,40.8,7440
+2017,FL,Florida,15-1142,Network and Computer Systems Administrators,0.86,79360,38.15,18970
+2017,FL,Florida,15-1143,Computer Network Architects,1.43,82920,39.87,13340
+2017,FL,Florida,15-1151,Computer User Support Specialists,1.03,47540,22.85,37190
+2017,FL,Florida,15-1152,Computer Network Support Specialists,0.87,58090,27.93,9570
+2017,FL,Florida,15-1199,"Computer Occupations, All Other",0.6,78470,37.73,11180
+2017,GA,Georgia,15-0000,Computer and Mathematical Occupations,1.09,85890,41.29,140520
+2017,GA,Georgia,15-1111,Computer and Information Research Scientists,0.96,101950,49.02,810
+2017,GA,Georgia,15-1121,Computer Systems Analysts,0.99,87850,42.24,17380
+2017,GA,Georgia,15-1122,Information Security Analysts,0.89,90940,43.72,2840
+2017,GA,Georgia,15-1131,Computer Programmers,0.92,85380,41.05,6880
+2017,GA,Georgia,15-1132,"Software Developers, Applications",1.05,103630,49.82,27040
+2017,GA,Georgia,15-1133,"Software Developers, Systems Software",1.01,101530,48.81,12030
+2017,GA,Georgia,15-1134,Web Developers,0.71,77950,37.48,2710
+2017,GA,Georgia,15-1141,Database Administrators,1.25,89010,42.79,4300
+2017,GA,Georgia,15-1142,Network and Computer Systems Administrators,0.96,87570,42.1,10820
+2017,GA,Georgia,15-1143,Computer Network Architects,1.11,113110,54.38,5270
+2017,GA,Georgia,15-1151,Computer User Support Specialists,1.25,52980,25.47,23140
+2017,GA,Georgia,15-1152,Computer Network Support Specialists,1.21,69740,33.53,6790
+2017,GA,Georgia,15-1199,"Computer Occupations, All Other",1.74,88190,42.4,16580
+2017,HI,Hawaii,15-0000,Computer and Mathematical Occupations,0.53,79790,38.36,9960
+2017,HI,Hawaii,15-1111,Computer and Information Research Scientists,1.06,105490,50.71,130
+2017,HI,Hawaii,15-1121,Computer Systems Analysts,0.58,80940,38.91,1500
+2017,HI,Hawaii,15-1122,Information Security Analysts,0.39,95700,46.01,180
+2017,HI,Hawaii,15-1131,Computer Programmers,0.42,77190,37.11,470
+2017,HI,Hawaii,15-1132,"Software Developers, Applications",0.2,82050,39.45,760
+2017,HI,Hawaii,15-1133,"Software Developers, Systems Software",0.57,94280,45.33,1000
+2017,HI,Hawaii,15-1134,Web Developers,0.51,60810,29.24,280
+2017,HI,Hawaii,15-1141,Database Administrators,0.63,89400,42.98,320
+2017,HI,Hawaii,15-1142,Network and Computer Systems Administrators,0.71,86440,41.56,1190
+2017,HI,Hawaii,15-1143,Computer Network Architects,0.49,100540,48.34,340
+2017,HI,Hawaii,15-1151,Computer User Support Specialists,0.43,47660,22.91,1170
+2017,HI,Hawaii,15-1152,Computer Network Support Specialists,0.73,60350,29.02,600
+2017,HI,Hawaii,15-1199,"Computer Occupations, All Other",1.17,88790,42.69,1640
+2017,ID,Idaho,15-0000,Computer and Mathematical Occupations,0.69,70210,33.76,14110
+2017,ID,Idaho,15-1111,Computer and Information Research Scientists,1.01,*,*,140
+2017,ID,Idaho,15-1121,Computer Systems Analysts,0.49,78770,37.87,1360
+2017,ID,Idaho,15-1122,Information Security Analysts,0.81,84450,40.6,410
+2017,ID,Idaho,15-1131,Computer Programmers,0.53,75310,36.21,630
+2017,ID,Idaho,15-1132,"Software Developers, Applications",0.72,87580,42.11,2950
+2017,ID,Idaho,15-1133,"Software Developers, Systems Software",0.47,89610,43.08,900
+2017,ID,Idaho,15-1134,Web Developers,1.11,50660,24.36,670
+2017,ID,Idaho,15-1141,Database Administrators,0.93,61430,29.54,510
+2017,ID,Idaho,15-1142,Network and Computer Systems Administrators,0.74,64310,30.92,1330
+2017,ID,Idaho,15-1143,Computer Network Architects,0.57,80890,38.89,430
+2017,ID,Idaho,15-1151,Computer User Support Specialists,1.01,43650,20.99,2970
+2017,ID,Idaho,15-1152,Computer Network Support Specialists,0.48,55250,26.56,430
+2017,ID,Idaho,15-1199,"Computer Occupations, All Other",0.63,76320,36.69,960
+2017,IL,Illinois,15-0000,Computer and Mathematical Occupations,0.97,86820,41.74,172680
+2017,IL,Illinois,15-1111,Computer and Information Research Scientists,0.51,121310,58.32,590
+2017,IL,Illinois,15-1121,Computer Systems Analysts,1.09,90600,43.56,26500
+2017,IL,Illinois,15-1122,Information Security Analysts,0.91,97360,46.81,3970
+2017,IL,Illinois,15-1131,Computer Programmers,1.17,89390,42.98,12060
+2017,IL,Illinois,15-1132,"Software Developers, Applications",0.78,96110,46.21,27460
+2017,IL,Illinois,15-1133,"Software Developers, Systems Software",0.86,106700,51.3,14150
+2017,IL,Illinois,15-1134,Web Developers,1,78160,37.58,5260
+2017,IL,Illinois,15-1141,Database Administrators,0.87,91730,44.1,4090
+2017,IL,Illinois,15-1142,Network and Computer Systems Administrators,0.85,87700,42.16,13210
+2017,IL,Illinois,15-1143,Computer Network Architects,0.8,112050,53.87,5260
+2017,IL,Illinois,15-1151,Computer User Support Specialists,1,53680,25.81,25540
+2017,IL,Illinois,15-1152,Computer Network Support Specialists,1.21,70940,34.1,9390
+2017,IL,Illinois,15-1199,"Computer Occupations, All Other",1.22,92960,44.69,16050
+2017,IN,Indiana,15-0000,Computer and Mathematical Occupations,0.64,72660,34.93,57410
+2017,IN,Indiana,15-1111,Computer and Information Research Scientists,**,107440,51.66,**
+2017,IN,Indiana,15-1121,Computer Systems Analysts,0.72,81310,39.09,8900
+2017,IN,Indiana,15-1122,Information Security Analysts,0.49,77450,37.24,1080
+2017,IN,Indiana,15-1131,Computer Programmers,0.83,75420,36.26,4350
+2017,IN,Indiana,15-1132,"Software Developers, Applications",0.5,85640,41.17,9040
+2017,IN,Indiana,15-1133,"Software Developers, Systems Software",0.43,86540,41.61,3580
+2017,IN,Indiana,15-1134,Web Developers,0.61,57630,27.71,1620
+2017,IN,Indiana,15-1141,Database Administrators,0.71,73490,35.33,1710
+2017,IN,Indiana,15-1142,Network and Computer Systems Administrators,0.91,72330,34.77,7220
+2017,IN,Indiana,15-1143,Computer Network Architects,0.97,86230,41.46,3250
+2017,IN,Indiana,15-1151,Computer User Support Specialists,0.78,45750,22,10110
+2017,IN,Indiana,15-1152,Computer Network Support Specialists,0.39,60680,29.17,1550
+2017,IN,Indiana,15-1199,"Computer Occupations, All Other",0.41,73280,35.23,2750
+2017,IA,Iowa,15-0000,Computer and Mathematical Occupations,0.77,76700,36.87,35150
+2017,IA,Iowa,15-1121,Computer Systems Analysts,1.07,82850,39.83,6720
+2017,IA,Iowa,15-1122,Information Security Analysts,0.41,79670,38.3,460
+2017,IA,Iowa,15-1131,Computer Programmers,0.54,75060,36.09,1430
+2017,IA,Iowa,15-1132,"Software Developers, Applications",0.75,86070,41.38,6830
+2017,IA,Iowa,15-1133,"Software Developers, Systems Software",0.7,88310,42.46,2960
+2017,IA,Iowa,15-1134,Web Developers,0.78,58120,27.94,1060
+2017,IA,Iowa,15-1141,Database Administrators,0.54,85330,41.02,670
+2017,IA,Iowa,15-1142,Network and Computer Systems Administrators,0.83,73940,35.55,3340
+2017,IA,Iowa,15-1143,Computer Network Architects,0.7,*,*,1180
+2017,IA,Iowa,15-1151,Computer User Support Specialists,0.65,47030,22.61,4310
+2017,IA,Iowa,15-1152,Computer Network Support Specialists,1.15,54070,26,2310
+2017,IA,Iowa,15-1199,"Computer Occupations, All Other",0.64,77390,37.21,2180
+2017,KS,Kansas,15-0000,Computer and Mathematical Occupations,0.88,74020,35.59,35900
+2017,KS,Kansas,15-1111,Computer and Information Research Scientists,0.38,89880,43.21,100
+2017,KS,Kansas,15-1121,Computer Systems Analysts,0.92,78530,37.75,5120
+2017,KS,Kansas,15-1122,Information Security Analysts,0.86,77720,37.36,870
+2017,KS,Kansas,15-1131,Computer Programmers,0.72,74190,35.67,1710
+2017,KS,Kansas,15-1132,"Software Developers, Applications",0.67,86880,41.77,5440
+2017,KS,Kansas,15-1133,"Software Developers, Systems Software",0.64,98460,47.34,2410
+2017,KS,Kansas,15-1134,Web Developers,0.83,60820,29.24,1000
+2017,KS,Kansas,15-1141,Database Administrators,0.8,83870,40.32,870
+2017,KS,Kansas,15-1142,Network and Computer Systems Administrators,1.53,75500,36.3,5510
+2017,KS,Kansas,15-1143,Computer Network Architects,1.06,94620,45.49,1600
+2017,KS,Kansas,15-1151,Computer User Support Specialists,1.29,45350,21.8,7600
+2017,KS,Kansas,15-1152,Computer Network Support Specialists,0.52,58490,28.12,930
+2017,KS,Kansas,15-1199,"Computer Occupations, All Other",0.47,82160,39.5,1430
+2017,KY,Kentucky,15-0000,Computer and Mathematical Occupations,0.55,68790,33.07,31120
+2017,KY,Kentucky,15-1121,Computer Systems Analysts,0.58,72720,34.96,4430
+2017,KY,Kentucky,15-1122,Information Security Analysts,0.56,83010,39.91,780
+2017,KY,Kentucky,15-1131,Computer Programmers,0.32,69700,33.51,1040
+2017,KY,Kentucky,15-1132,"Software Developers, Applications",0.46,78260,37.62,5200
+2017,KY,Kentucky,15-1133,"Software Developers, Systems Software",0.35,86380,41.53,1800
+2017,KY,Kentucky,15-1134,Web Developers,0.72,64780,31.14,1190
+2017,KY,Kentucky,15-1141,Database Administrators,0.62,76080,36.58,930
+2017,KY,Kentucky,15-1142,Network and Computer Systems Administrators,0.64,64670,31.09,3160
+2017,KY,Kentucky,15-1143,Computer Network Architects,0.61,77440,37.23,1260
+2017,KY,Kentucky,15-1151,Computer User Support Specialists,0.71,45400,21.83,5720
+2017,KY,Kentucky,15-1152,Computer Network Support Specialists,0.59,55250,26.56,1460
+2017,KY,Kentucky,15-1199,"Computer Occupations, All Other",0.62,82120,39.48,2590
+2017,LA,Louisiana,15-0000,Computer and Mathematical Occupations,0.35,63700,30.63,20000
+2017,LA,Louisiana,15-1121,Computer Systems Analysts,0.25,72230,34.73,1930
+2017,LA,Louisiana,15-1122,Information Security Analysts,0.33,76710,36.88,460
+2017,LA,Louisiana,15-1131,Computer Programmers,0.71,67970,32.68,2340
+2017,LA,Louisiana,15-1132,"Software Developers, Applications",0.1,76700,36.87,1160
+2017,LA,Louisiana,15-1133,"Software Developers, Systems Software",0.23,75250,36.18,1200
+2017,LA,Louisiana,15-1134,Web Developers,0.28,55200,26.54,460
+2017,LA,Louisiana,15-1141,Database Administrators,0.29,88390,42.5,440
+2017,LA,Louisiana,15-1142,Network and Computer Systems Administrators,0.56,65090,31.3,2790
+2017,LA,Louisiana,15-1143,Computer Network Architects,0.17,80480,38.69,350
+2017,LA,Louisiana,15-1151,Computer User Support Specialists,0.44,45250,21.75,3590
+2017,LA,Louisiana,15-1152,Computer Network Support Specialists,0.55,50660,24.36,1370
+2017,LA,Louisiana,15-1199,"Computer Occupations, All Other",0.79,65500,31.49,3340
+2017,ME,Maine,15-0000,Computer and Mathematical Occupations,0.63,74830,35.98,11370
+2017,ME,Maine,15-1121,Computer Systems Analysts,0.72,81710,39.28,1770
+2017,ME,Maine,15-1122,Information Security Analysts,0.55,110080,52.92,250
+2017,ME,Maine,15-1131,Computer Programmers,0.85,77450,37.23,880
+2017,ME,Maine,15-1132,"Software Developers, Applications",0.47,87940,42.28,1680
+2017,ME,Maine,15-1133,"Software Developers, Systems Software",0.21,91550,44.02,340
+2017,ME,Maine,15-1134,Web Developers,0.62,62390,30,330
+2017,ME,Maine,15-1141,Database Administrators,0.53,74570,35.85,250
+2017,ME,Maine,15-1142,Network and Computer Systems Administrators,0.79,70930,34.1,1250
+2017,ME,Maine,15-1143,Computer Network Architects,0.91,90920,43.71,600
+2017,ME,Maine,15-1151,Computer User Support Specialists,0.75,51050,24.55,1930
+2017,ME,Maine,15-1152,Computer Network Support Specialists,0.99,62530,30.06,780
+2017,ME,Maine,15-1199,"Computer Occupations, All Other",0.62,77050,37.04,820
+2017,MD,Maryland,15-0000,Computer and Mathematical Occupations,1.56,99010,47.6,124630
+2017,MD,Maryland,15-1111,Computer and Information Research Scientists,5.1,109700,52.74,2660
+2017,MD,Maryland,15-1121,Computer Systems Analysts,1.58,97700,46.97,17220
+2017,MD,Maryland,15-1122,Information Security Analysts,2.25,107580,51.72,4430
+2017,MD,Maryland,15-1131,Computer Programmers,1.02,89090,42.83,4710
+2017,MD,Maryland,15-1132,"Software Developers, Applications",0.8,112190,53.94,12710
+2017,MD,Maryland,15-1133,"Software Developers, Systems Software",2.04,118330,56.89,15030
+2017,MD,Maryland,15-1134,Web Developers,1.48,73680,35.43,3470
+2017,MD,Maryland,15-1141,Database Administrators,1.68,87790,42.21,3570
+2017,MD,Maryland,15-1142,Network and Computer Systems Administrators,2.2,107240,51.56,15400
+2017,MD,Maryland,15-1143,Computer Network Architects,1.77,109050,52.43,5230
+2017,MD,Maryland,15-1151,Computer User Support Specialists,0.88,55820,26.84,10080
+2017,MD,Maryland,15-1152,Computer Network Support Specialists,2.39,72070,34.65,8310
+2017,MD,Maryland,15-1199,"Computer Occupations, All Other",2.34,109620,52.7,13840
+2017,MA,Massachusetts,15-0000,Computer and Mathematical Occupations,1.35,96470,46.38,142010
+2017,MA,Massachusetts,15-1111,Computer and Information Research Scientists,1.43,131620,63.28,990
+2017,MA,Massachusetts,15-1121,Computer Systems Analysts,1.03,93030,44.72,14880
+2017,MA,Massachusetts,15-1122,Information Security Analysts,1.27,106520,51.21,3300
+2017,MA,Massachusetts,15-1131,Computer Programmers,0.84,94340,45.36,5150
+2017,MA,Massachusetts,15-1132,"Software Developers, Applications",1.36,108680,52.25,28590
+2017,MA,Massachusetts,15-1133,"Software Developers, Systems Software",2.72,114900,55.24,26560
+2017,MA,Massachusetts,15-1134,Web Developers,1.35,81770,39.31,4190
+2017,MA,Massachusetts,15-1141,Database Administrators,1.01,91060,43.78,2840
+2017,MA,Massachusetts,15-1142,Network and Computer Systems Administrators,1,90340,43.44,9310
+2017,MA,Massachusetts,15-1143,Computer Network Architects,1.43,116540,56.03,5590
+2017,MA,Massachusetts,15-1151,Computer User Support Specialists,1.32,61450,29.54,20090
+2017,MA,Massachusetts,15-1152,Computer Network Support Specialists,0.7,81620,39.24,3240
+2017,MA,Massachusetts,15-1199,"Computer Occupations, All Other",1.18,93900,45.15,9240
+2017,MI,Michigan,15-0000,Computer and Mathematical Occupations,0.87,78810,37.89,111400
+2017,MI,Michigan,15-1111,Computer and Information Research Scientists,0.24,99930,48.04,200
+2017,MI,Michigan,15-1121,Computer Systems Analysts,0.99,84820,40.78,17260
+2017,MI,Michigan,15-1122,Information Security Analysts,0.49,94140,45.26,1550
+2017,MI,Michigan,15-1131,Computer Programmers,0.49,73680,35.42,3630
+2017,MI,Michigan,15-1132,"Software Developers, Applications",1.02,91430,43.96,25940
+2017,MI,Michigan,15-1133,"Software Developers, Systems Software",0.94,89630,43.09,11090
+2017,MI,Michigan,15-1134,Web Developers,0.72,64540,31.03,2720
+2017,MI,Michigan,15-1141,Database Administrators,0.81,84210,40.49,2760
+2017,MI,Michigan,15-1142,Network and Computer Systems Administrators,0.73,77380,37.2,8250
+2017,MI,Michigan,15-1143,Computer Network Architects,0.69,99980,48.07,3270
+2017,MI,Michigan,15-1151,Computer User Support Specialists,0.99,50790,24.42,18190
+2017,MI,Michigan,15-1152,Computer Network Support Specialists,0.69,58340,28.05,3840
+2017,MI,Michigan,15-1199,"Computer Occupations, All Other",1.03,75990,36.53,9780
+2017,MN,Minnesota,15-0000,Computer and Mathematical Occupations,1.11,86710,41.69,94290
+2017,MN,Minnesota,15-1111,Computer and Information Research Scientists,0.43,117200,56.35,240
+2017,MN,Minnesota,15-1121,Computer Systems Analysts,1.44,91230,43.86,16630
+2017,MN,Minnesota,15-1122,Information Security Analysts,1.65,95930,46.12,3460
+2017,MN,Minnesota,15-1131,Computer Programmers,1,89440,43,4950
+2017,MN,Minnesota,15-1132,"Software Developers, Applications",1.02,93280,44.85,17330
+2017,MN,Minnesota,15-1133,"Software Developers, Systems Software",1.04,111340,53.53,8190
+2017,MN,Minnesota,15-1134,Web Developers,1.13,75970,36.52,2830
+2017,MN,Minnesota,15-1141,Database Administrators,1.01,88410,42.5,2300
+2017,MN,Minnesota,15-1142,Network and Computer Systems Administrators,1.14,85560,41.13,8540
+2017,MN,Minnesota,15-1143,Computer Network Architects,1.36,107860,51.85,4290
+2017,MN,Minnesota,15-1151,Computer User Support Specialists,1,55520,26.69,12240
+2017,MN,Minnesota,15-1152,Computer Network Support Specialists,0.9,60200,28.94,3320
+2017,MN,Minnesota,15-1199,"Computer Occupations, All Other",0.96,77570,37.29,6020
+2017,MS,Mississippi,15-0000,Computer and Mathematical Occupations,0.35,67820,32.61,11810
+2017,MS,Mississippi,15-1111,Computer and Information Research Scientists,1.09,95960,46.13,240
+2017,MS,Mississippi,15-1121,Computer Systems Analysts,0.41,66040,31.75,1860
+2017,MS,Mississippi,15-1122,Information Security Analysts,0.41,75500,36.3,330
+2017,MS,Mississippi,15-1131,Computer Programmers,0.4,73860,35.51,780
+2017,MS,Mississippi,15-1132,"Software Developers, Applications",0.11,94460,45.42,740
+2017,MS,Mississippi,15-1133,"Software Developers, Systems Software",0.31,85940,41.32,960
+2017,MS,Mississippi,15-1134,Web Developers,0.38,61810,29.72,370
+2017,MS,Mississippi,15-1141,Database Administrators,0.4,71280,34.27,360
+2017,MS,Mississippi,15-1142,Network and Computer Systems Administrators,0.42,72630,34.92,1250
+2017,MS,Mississippi,15-1143,Computer Network Architects,0.55,73370,35.27,680
+2017,MS,Mississippi,15-1151,Computer User Support Specialists,0.49,45520,21.89,2380
+2017,MS,Mississippi,15-1152,Computer Network Support Specialists,0.6,52310,25.15,880
+2017,MS,Mississippi,15-1199,"Computer Occupations, All Other",0.24,80220,38.57,600
+2017,MO,Missouri,15-0000,Computer and Mathematical Occupations,1.01,78690,37.83,84520
+2017,MO,Missouri,15-1111,Computer and Information Research Scientists,0.43,99010,47.6,240
+2017,MO,Missouri,15-1121,Computer Systems Analysts,0.99,88110,42.36,11260
+2017,MO,Missouri,15-1122,Information Security Analysts,1.37,91630,44.05,2820
+2017,MO,Missouri,15-1131,Computer Programmers,1.38,80030,38.47,6710
+2017,MO,Missouri,15-1132,"Software Developers, Applications",0.85,96100,46.2,14150
+2017,MO,Missouri,15-1133,"Software Developers, Systems Software",0.71,96200,46.25,5520
+2017,MO,Missouri,15-1134,Web Developers,0.8,59210,28.47,1970
+2017,MO,Missouri,15-1141,Database Administrators,1.18,87910,42.26,2620
+2017,MO,Missouri,15-1142,Network and Computer Systems Administrators,1.15,80280,38.6,8420
+2017,MO,Missouri,15-1143,Computer Network Architects,0.91,97120,46.69,2800
+2017,MO,Missouri,15-1151,Computer User Support Specialists,1.11,46570,22.39,13370
+2017,MO,Missouri,15-1152,Computer Network Support Specialists,1.62,55100,26.49,5910
+2017,MO,Missouri,15-1199,"Computer Occupations, All Other",1.01,81060,38.97,6260
+2017,MT,Montana,15-0000,Computer and Mathematical Occupations,0.59,63720,30.63,8150
+2017,MT,Montana,15-1111,Computer and Information Research Scientists,0.7,105360,50.65,60
+2017,MT,Montana,15-1121,Computer Systems Analysts,0.36,73760,35.46,670
+2017,MT,Montana,15-1122,Information Security Analysts,0.38,60000,28.85,130
+2017,MT,Montana,15-1131,Computer Programmers,0.9,92150,44.3,720
+2017,MT,Montana,15-1132,"Software Developers, Applications",0.31,73960,35.56,850
+2017,MT,Montana,15-1133,"Software Developers, Systems Software",0.44,79280,38.11,560
+2017,MT,Montana,15-1134,Web Developers,1.05,46510,22.36,430
+2017,MT,Montana,15-1141,Database Administrators,0.62,60600,29.14,230
+2017,MT,Montana,15-1142,Network and Computer Systems Administrators,0.52,61380,29.51,640
+2017,MT,Montana,15-1143,Computer Network Architects,0.47,71830,34.54,240
+2017,MT,Montana,15-1151,Computer User Support Specialists,1.24,45670,21.96,2450
+2017,MT,Montana,15-1152,Computer Network Support Specialists,0.62,*,*,370
+2017,MT,Montana,15-1199,"Computer Occupations, All Other",0.63,65020,31.26,640
+2017,NE,Nebraska,15-0000,Computer and Mathematical Occupations,1.04,75570,36.33,30240
+2017,NE,Nebraska,15-1111,Computer and Information Research Scientists,0.19,86810,41.74,40
+2017,NE,Nebraska,15-1121,Computer Systems Analysts,0.89,77170,37.1,3540
+2017,NE,Nebraska,15-1122,Information Security Analysts,0.88,80830,38.86,630
+2017,NE,Nebraska,15-1131,Computer Programmers,1.53,77670,37.34,2580
+2017,NE,Nebraska,15-1132,"Software Developers, Applications",0.79,86870,41.76,4590
+2017,NE,Nebraska,15-1133,"Software Developers, Systems Software",0.99,90760,43.64,2670
+2017,NE,Nebraska,15-1134,Web Developers,0.99,58510,28.13,850
+2017,NE,Nebraska,15-1141,Database Administrators,1.29,82280,39.56,1000
+2017,NE,Nebraska,15-1142,Network and Computer Systems Administrators,1.23,77070,37.05,3140
+2017,NE,Nebraska,15-1143,Computer Network Architects,1.28,94420,45.39,1370
+2017,NE,Nebraska,15-1151,Computer User Support Specialists,0.92,48060,23.11,3830
+2017,NE,Nebraska,15-1152,Computer Network Support Specialists,1.52,55620,26.74,1930
+2017,NE,Nebraska,15-1199,"Computer Occupations, All Other",1.13,83560,40.17,2430
+2017,NV,Nevada,15-0000,Computer and Mathematical Occupations,0.5,76820,36.93,19410
+2017,NV,Nevada,15-1111,Computer and Information Research Scientists,0.18,103410,49.72,50
+2017,NV,Nevada,15-1121,Computer Systems Analysts,0.34,81830,39.34,1830
+2017,NV,Nevada,15-1122,Information Security Analysts,0.5,88300,42.45,480
+2017,NV,Nevada,15-1131,Computer Programmers,0.66,77080,37.06,1500
+2017,NV,Nevada,15-1132,"Software Developers, Applications",0.43,101010,48.56,3350
+2017,NV,Nevada,15-1133,"Software Developers, Systems Software",0.26,93490,44.95,960
+2017,NV,Nevada,15-1134,Web Developers,0.62,59580,28.64,710
+2017,NV,Nevada,15-1141,Database Administrators,0.58,87560,42.09,610
+2017,NV,Nevada,15-1142,Network and Computer Systems Administrators,0.43,82200,39.52,1490
+2017,NV,Nevada,15-1143,Computer Network Architects,0.48,103200,49.62,690
+2017,NV,Nevada,15-1151,Computer User Support Specialists,0.64,50030,24.05,3600
+2017,NV,Nevada,15-1152,Computer Network Support Specialists,0.59,56040,26.94,1010
+2017,NV,Nevada,15-1199,"Computer Occupations, All Other",0.93,69440,33.38,2710
+2017,NH,New Hampshire,15-0000,Computer and Mathematical Occupations,0.98,88260,42.43,19140
+2017,NH,New Hampshire,15-1121,Computer Systems Analysts,0.79,87600,42.12,2090
+2017,NH,New Hampshire,15-1122,Information Security Analysts,0.72,100750,48.44,350
+2017,NH,New Hampshire,15-1131,Computer Programmers,1.21,73700,35.43,1370
+2017,NH,New Hampshire,15-1132,"Software Developers, Applications",1.53,105210,50.58,5930
+2017,NH,New Hampshire,15-1133,"Software Developers, Systems Software",0.73,122810,59.04,1310
+2017,NH,New Hampshire,15-1134,Web Developers,1.16,65260,31.37,660
+2017,NH,New Hampshire,15-1141,Database Administrators,0.58,90290,43.41,300
+2017,NH,New Hampshire,15-1142,Network and Computer Systems Administrators,1.17,80170,38.54,1990
+2017,NH,New Hampshire,15-1143,Computer Network Architects,0.45,111790,53.75,320
+2017,NH,New Hampshire,15-1151,Computer User Support Specialists,1.05,53570,25.76,2930
+2017,NH,New Hampshire,15-1152,Computer Network Support Specialists,0.39,69560,33.44,330
+2017,NH,New Hampshire,15-1199,"Computer Occupations, All Other",0.37,89440,43,540
+2017,NJ,New Jersey,15-0000,Computer and Mathematical Occupations,1.17,100540,48.34,139640
+2017,NJ,New Jersey,15-1111,Computer and Information Research Scientists,1.63,125240,60.21,1280
+2017,NJ,New Jersey,15-1121,Computer Systems Analysts,0.81,105750,50.84,13170
+2017,NJ,New Jersey,15-1122,Information Security Analysts,1.09,120020,57.7,3210
+2017,NJ,New Jersey,15-1131,Computer Programmers,1.57,92320,44.38,10930
+2017,NJ,New Jersey,15-1132,"Software Developers, Applications",1.83,107040,51.46,43760
+2017,NJ,New Jersey,15-1133,"Software Developers, Systems Software",0.82,117080,56.29,9110
+2017,NJ,New Jersey,15-1134,Web Developers,0.79,77160,37.1,2800
+2017,NJ,New Jersey,15-1141,Database Administrators,1.26,106390,51.15,4040
+2017,NJ,New Jersey,15-1142,Network and Computer Systems Administrators,1.12,100220,48.18,11850
+2017,NJ,New Jersey,15-1143,Computer Network Architects,1.18,128370,61.72,5260
+2017,NJ,New Jersey,15-1151,Computer User Support Specialists,0.81,64440,30.98,13900
+2017,NJ,New Jersey,15-1152,Computer Network Support Specialists,1.18,81000,38.94,6200
+2017,NJ,New Jersey,15-1199,"Computer Occupations, All Other",1.07,97690,46.97,9470
+2017,NM,New Mexico,15-0000,Computer and Mathematical Occupations,0.62,78240,37.62,14750
+2017,NM,New Mexico,15-1111,Computer and Information Research Scientists,4.79,132210,63.56,750
+2017,NM,New Mexico,15-1121,Computer Systems Analysts,0.52,81500,39.18,1700
+2017,NM,New Mexico,15-1122,Information Security Analysts,1.33,107410,51.64,790
+2017,NM,New Mexico,15-1131,Computer Programmers,0.32,79850,38.39,440
+2017,NM,New Mexico,15-1132,"Software Developers, Applications",0.25,79230,38.09,1200
+2017,NM,New Mexico,15-1133,"Software Developers, Systems Software",0.74,98580,47.39,1650
+2017,NM,New Mexico,15-1134,Web Developers,0.38,56930,27.37,270
+2017,NM,New Mexico,15-1141,Database Administrators,0.7,77650,37.33,450
+2017,NM,New Mexico,15-1142,Network and Computer Systems Administrators,0.83,73740,35.45,1760
+2017,NM,New Mexico,15-1143,Computer Network Architects,0.55,110990,53.36,490
+2017,NM,New Mexico,15-1151,Computer User Support Specialists,0.71,42020,20.2,2450
+2017,NM,New Mexico,15-1152,Computer Network Support Specialists,1.12,60640,29.15,1180
+2017,NM,New Mexico,15-1199,"Computer Occupations, All Other",0.63,77120,37.08,1120
+2017,NY,New York,15-0000,Computer and Mathematical Occupations,0.94,95370,45.85,259090
+2017,NY,New York,15-1111,Computer and Information Research Scientists,0.67,136540,65.64,1200
+2017,NY,New York,15-1121,Computer Systems Analysts,1.13,103550,49.78,42500
+2017,NY,New York,15-1122,Information Security Analysts,0.91,118140,56.8,6170
+2017,NY,New York,15-1131,Computer Programmers,1.03,89260,42.92,16420
+2017,NY,New York,15-1132,"Software Developers, Applications",0.9,115530,55.55,49190
+2017,NY,New York,15-1133,"Software Developers, Systems Software",0.81,115490,55.53,20710
+2017,NY,New York,15-1134,Web Developers,1.46,82360,39.6,11900
+2017,NY,New York,15-1141,Database Administrators,0.98,94330,45.35,7170
+2017,NY,New York,15-1142,Network and Computer Systems Administrators,1.04,93310,44.86,25290
+2017,NY,New York,15-1143,Computer Network Architects,0.87,109200,52.5,8890
+2017,NY,New York,15-1151,Computer User Support Specialists,1.1,58360,28.06,43800
+2017,NY,New York,15-1152,Computer Network Support Specialists,1.14,75690,36.39,13650
+2017,NY,New York,15-1199,"Computer Occupations, All Other",**,88560,42.58,**
+2017,NC,North Carolina,15-0000,Computer and Mathematical Occupations,1,86380,41.53,129080
+2017,NC,North Carolina,15-1111,Computer and Information Research Scientists,0.13,103710,49.86,110
+2017,NC,North Carolina,15-1121,Computer Systems Analysts,1.42,92140,44.3,25000
+2017,NC,North Carolina,15-1122,Information Security Analysts,1.29,100650,48.39,4090
+2017,NC,North Carolina,15-1131,Computer Programmers,0.91,90250,43.39,6820
+2017,NC,North Carolina,15-1132,"Software Developers, Applications",1.03,101000,48.56,26430
+2017,NC,North Carolina,15-1133,"Software Developers, Systems Software",0.68,106940,51.42,8070
+2017,NC,North Carolina,15-1134,Web Developers,0.93,73060,35.12,3530
+2017,NC,North Carolina,15-1141,Database Administrators,0.8,89120,42.85,2730
+2017,NC,North Carolina,15-1142,Network and Computer Systems Administrators,1.02,84660,40.7,11550
+2017,NC,North Carolina,15-1143,Computer Network Architects,1,107470,51.67,4780
+2017,NC,North Carolina,15-1151,Computer User Support Specialists,1.17,53330,25.64,21700
+2017,NC,North Carolina,15-1152,Computer Network Support Specialists,0.89,65540,31.51,5010
+2017,NC,North Carolina,15-1199,"Computer Occupations, All Other",**,84160,40.46,**
+2017,ND,North Dakota,15-0000,Computer and Mathematical Occupations,0.6,66390,31.92,7420
+2017,ND,North Dakota,15-1121,Computer Systems Analysts,0.39,72470,34.84,670
+2017,ND,North Dakota,15-1122,Information Security Analysts,0.59,76070,36.57,180
+2017,ND,North Dakota,15-1131,Computer Programmers,0.93,67080,32.25,670
+2017,ND,North Dakota,15-1132,"Software Developers, Applications",0.38,74310,35.73,950
+2017,ND,North Dakota,15-1133,"Software Developers, Systems Software",0.51,67500,32.45,590
+2017,ND,North Dakota,15-1134,Web Developers,0.69,61090,29.37,260
+2017,ND,North Dakota,15-1141,Database Administrators,0.44,75710,36.4,150
+2017,ND,North Dakota,15-1142,Network and Computer Systems Administrators,0.56,67750,32.57,620
+2017,ND,North Dakota,15-1143,Computer Network Architects,0.39,87100,41.87,180
+2017,ND,North Dakota,15-1151,Computer User Support Specialists,0.86,54660,26.28,1550
+2017,ND,North Dakota,15-1152,Computer Network Support Specialists,1.14,59220,28.47,620
+2017,ND,North Dakota,15-1199,"Computer Occupations, All Other",0.87,70220,33.76,810
+2017,OH,Ohio,15-0000,Computer and Mathematical Occupations,0.92,80690,38.79,148050
+2017,OH,Ohio,15-1111,Computer and Information Research Scientists,0.21,111610,53.66,220
+2017,OH,Ohio,15-1121,Computer Systems Analysts,1.32,90070,43.3,28970
+2017,OH,Ohio,15-1122,Information Security Analysts,0.83,93190,44.8,3290
+2017,OH,Ohio,15-1131,Computer Programmers,0.51,70430,33.86,4720
+2017,OH,Ohio,15-1132,"Software Developers, Applications",1.13,93250,44.83,36000
+2017,OH,Ohio,15-1133,"Software Developers, Systems Software",0.35,96450,46.37,5230
+2017,OH,Ohio,15-1134,Web Developers,0.76,60960,29.31,3580
+2017,OH,Ohio,15-1141,Database Administrators,0.97,84690,40.72,4160
+2017,OH,Ohio,15-1142,Network and Computer Systems Administrators,0.94,78470,37.73,13340
+2017,OH,Ohio,15-1143,Computer Network Architects,0.97,95260,45.8,5780
+2017,OH,Ohio,15-1151,Computer User Support Specialists,0.87,48100,23.13,20050
+2017,OH,Ohio,15-1152,Computer Network Support Specialists,1.25,61100,29.37,8760
+2017,OH,Ohio,15-1199,"Computer Occupations, All Other",0.66,78430,37.71,7900
+2017,OK,Oklahoma,15-0000,Computer and Mathematical Occupations,0.67,69560,33.44,31440
+2017,OK,Oklahoma,15-1111,Computer and Information Research Scientists,1.62,85550,41.13,500
+2017,OK,Oklahoma,15-1121,Computer Systems Analysts,0.45,79410,38.18,2870
+2017,OK,Oklahoma,15-1122,Information Security Analysts,0.72,75760,36.42,830
+2017,OK,Oklahoma,15-1131,Computer Programmers,0.7,79200,38.08,1900
+2017,OK,Oklahoma,15-1132,"Software Developers, Applications",0.43,87960,42.29,4050
+2017,OK,Oklahoma,15-1133,"Software Developers, Systems Software",0.56,79070,38.02,2420
+2017,OK,Oklahoma,15-1134,Web Developers,0.52,57950,27.86,720
+2017,OK,Oklahoma,15-1141,Database Administrators,0.96,72580,34.89,1210
+2017,OK,Oklahoma,15-1142,Network and Computer Systems Administrators,0.69,72410,34.81,2840
+2017,OK,Oklahoma,15-1143,Computer Network Architects,0.49,83630,40.21,850
+2017,OK,Oklahoma,15-1151,Computer User Support Specialists,1.08,45960,22.1,7320
+2017,OK,Oklahoma,15-1152,Computer Network Support Specialists,1.33,63930,30.73,2730
+2017,OK,Oklahoma,15-1199,"Computer Occupations, All Other",0.68,77000,37.02,2360
+2017,OR,Oregon,15-0000,Computer and Mathematical Occupations,0.97,85750,41.23,53060
+2017,OR,Oregon,15-1111,Computer and Information Research Scientists,0.78,*,*,280
+2017,OR,Oregon,15-1121,Computer Systems Analysts,0.68,90590,43.55,5070
+2017,OR,Oregon,15-1122,Information Security Analysts,0.61,99480,47.83,830
+2017,OR,Oregon,15-1131,Computer Programmers,0.97,80900,38.89,3080
+2017,OR,Oregon,15-1132,"Software Developers, Applications",1.43,102820,49.43,15560
+2017,OR,Oregon,15-1133,"Software Developers, Systems Software",0.46,107770,51.81,2340
+2017,OR,Oregon,15-1134,Web Developers,1.38,68960,33.15,2240
+2017,OR,Oregon,15-1141,Database Administrators,0.66,87180,41.91,970
+2017,OR,Oregon,15-1142,Network and Computer Systems Administrators,0.71,81370,39.12,3440
+2017,OR,Oregon,15-1143,Computer Network Architects,0.53,122020,58.66,1080
+2017,OR,Oregon,15-1151,Computer User Support Specialists,0.97,52620,25.3,7680
+2017,OR,Oregon,15-1152,Computer Network Support Specialists,0.72,61300,29.47,1720
+2017,OR,Oregon,15-1199,"Computer Occupations, All Other",1.66,79690,38.31,6740
+2017,PA,Pennsylvania,15-0000,Computer and Mathematical Occupations,0.92,83060,39.93,158660
+2017,PA,Pennsylvania,15-1111,Computer and Information Research Scientists,0.33,110140,52.95,370
+2017,PA,Pennsylvania,15-1121,Computer Systems Analysts,0.95,93520,44.96,22330
+2017,PA,Pennsylvania,15-1122,Information Security Analysts,0.72,94810,45.58,3090
+2017,PA,Pennsylvania,15-1131,Computer Programmers,1.07,80830,38.86,10710
+2017,PA,Pennsylvania,15-1132,"Software Developers, Applications",0.8,95660,45.99,27420
+2017,PA,Pennsylvania,15-1133,"Software Developers, Systems Software",0.66,102080,49.08,10630
+2017,PA,Pennsylvania,15-1134,Web Developers,0.94,69600,33.46,4800
+2017,PA,Pennsylvania,15-1141,Database Administrators,1.3,83690,40.24,6010
+2017,PA,Pennsylvania,15-1142,Network and Computer Systems Administrators,0.9,76400,36.73,13700
+2017,PA,Pennsylvania,15-1143,Computer Network Architects,1.04,106240,51.07,6650
+2017,PA,Pennsylvania,15-1151,Computer User Support Specialists,0.95,50990,24.51,23590
+2017,PA,Pennsylvania,15-1152,Computer Network Support Specialists,0.94,64050,30.79,7090
+2017,PA,Pennsylvania,15-1199,"Computer Occupations, All Other",1.11,86910,41.78,14280
+2017,RI,Rhode Island,15-0000,Computer and Mathematical Occupations,1.02,85450,41.08,14490
+2017,RI,Rhode Island,15-1111,Computer and Information Research Scientists,4.39,109880,52.83,410
+2017,RI,Rhode Island,15-1121,Computer Systems Analysts,0.9,97750,46.99,1740
+2017,RI,Rhode Island,15-1122,Information Security Analysts,0.98,107210,51.54,340
+2017,RI,Rhode Island,15-1131,Computer Programmers,1.24,75300,36.2,1020
+2017,RI,Rhode Island,15-1132,"Software Developers, Applications",0.75,92620,44.53,2130
+2017,RI,Rhode Island,15-1133,"Software Developers, Systems Software",0.69,110170,52.97,910
+2017,RI,Rhode Island,15-1134,Web Developers,1.13,75130,36.12,470
+2017,RI,Rhode Island,15-1141,Database Administrators,1.09,92180,44.32,420
+2017,RI,Rhode Island,15-1142,Network and Computer Systems Administrators,1.57,90590,43.55,1960
+2017,RI,Rhode Island,15-1143,Computer Network Architects,0.72,115050,55.31,380
+2017,RI,Rhode Island,15-1151,Computer User Support Specialists,0.71,56570,27.2,1450
+2017,RI,Rhode Island,15-1152,Computer Network Support Specialists,2.22,53430,25.69,1380
+2017,RI,Rhode Island,15-1199,"Computer Occupations, All Other",1.15,83070,39.94,1210
+2017,SC,South Carolina,15-0000,Computer and Mathematical Occupations,0.66,72680,34.94,39530
+2017,SC,South Carolina,15-1121,Computer Systems Analysts,0.78,77580,37.3,6400
+2017,SC,South Carolina,15-1122,Information Security Analysts,0.81,77770,37.39,1200
+2017,SC,South Carolina,15-1131,Computer Programmers,1.01,81380,39.12,3510
+2017,SC,South Carolina,15-1132,"Software Developers, Applications",0.39,91200,43.85,4620
+2017,SC,South Carolina,15-1133,"Software Developers, Systems Software",0.47,80780,38.84,2630
+2017,SC,South Carolina,15-1134,Web Developers,0.63,73200,35.19,1120
+2017,SC,South Carolina,15-1141,Database Administrators,0.56,73840,35.5,890
+2017,SC,South Carolina,15-1142,Network and Computer Systems Administrators,1.1,72360,34.79,5810
+2017,SC,South Carolina,15-1143,Computer Network Architects,0.51,83580,40.18,1130
+2017,SC,South Carolina,15-1151,Computer User Support Specialists,0.74,47390,22.78,6420
+2017,SC,South Carolina,15-1152,Computer Network Support Specialists,1.05,53060,25.51,2760
+2017,SC,South Carolina,15-1199,"Computer Occupations, All Other",0.33,88410,42.51,1470
+2017,SD,South Dakota,15-0000,Computer and Mathematical Occupations,0.64,64020,30.78,8040
+2017,SD,South Dakota,15-1121,Computer Systems Analysts,0.43,74440,35.79,730
+2017,SD,South Dakota,15-1122,Information Security Analysts,0.73,89200,42.88,230
+2017,SD,South Dakota,15-1131,Computer Programmers,0.88,54950,26.42,640
+2017,SD,South Dakota,15-1132,"Software Developers, Applications",0.39,76050,36.56,980
+2017,SD,South Dakota,15-1133,"Software Developers, Systems Software",0.56,89370,42.97,650
+2017,SD,South Dakota,15-1134,Web Developers,0.93,55720,26.79,340
+2017,SD,South Dakota,15-1141,Database Administrators,0.47,73310,35.25,160
+2017,SD,South Dakota,15-1142,Network and Computer Systems Administrators,1.49,61840,29.73,1640
+2017,SD,South Dakota,15-1143,Computer Network Architects,0.7,99050,47.62,320
+2017,SD,South Dakota,15-1151,Computer User Support Specialists,0.74,38590,18.55,1340
+2017,SD,South Dakota,15-1152,Computer Network Support Specialists,1.37,48110,23.13,750
+2017,SD,South Dakota,15-1199,"Computer Occupations, All Other",0.19,79250,38.1,180
+2017,TN,Tennessee,15-0000,Computer and Mathematical Occupations,0.63,74050,35.6,54730
+2017,TN,Tennessee,15-1111,Computer and Information Research Scientists,0.36,109450,52.62,210
+2017,TN,Tennessee,15-1121,Computer Systems Analysts,0.7,75030,36.07,8370
+2017,TN,Tennessee,15-1122,Information Security Analysts,0.73,82720,39.77,1580
+2017,TN,Tennessee,15-1131,Computer Programmers,0.81,76740,36.89,4090
+2017,TN,Tennessee,15-1132,"Software Developers, Applications",0.36,87580,42.11,6310
+2017,TN,Tennessee,15-1133,"Software Developers, Systems Software",0.56,88910,42.75,4520
+2017,TN,Tennessee,15-1134,Web Developers,0.59,61370,29.5,1510
+2017,TN,Tennessee,15-1141,Database Administrators,0.61,81980,39.41,1420
+2017,TN,Tennessee,15-1142,Network and Computer Systems Administrators,0.72,81020,38.95,5490
+2017,TN,Tennessee,15-1143,Computer Network Architects,0.68,99210,47.7,2200
+2017,TN,Tennessee,15-1151,Computer User Support Specialists,0.76,49010,23.56,9480
+2017,TN,Tennessee,15-1152,Computer Network Support Specialists,0.94,59110,28.42,3570
+2017,TN,Tennessee,15-1199,"Computer Occupations, All Other",0.56,76240,36.65,3620
+2017,TX,Texas,15-0000,Computer and Mathematical Occupations,0.99,89450,43,353460
+2017,TX,Texas,15-1111,Computer and Information Research Scientists,0.93,105800,50.87,2170
+2017,TX,Texas,15-1121,Computer Systems Analysts,1.16,96190,46.24,56220
+2017,TX,Texas,15-1122,Information Security Analysts,0.88,94970,45.66,7760
+2017,TX,Texas,15-1131,Computer Programmers,1.01,86200,41.44,20850
+2017,TX,Texas,15-1132,"Software Developers, Applications",0.96,107280,51.58,67850
+2017,TX,Texas,15-1133,"Software Developers, Systems Software",0.77,111040,53.38,25330
+2017,TX,Texas,15-1134,Web Developers,0.75,71340,34.3,7920
+2017,TX,Texas,15-1141,Database Administrators,1.22,88940,42.76,11570
+2017,TX,Texas,15-1142,Network and Computer Systems Administrators,1.04,91340,43.91,32660
+2017,TX,Texas,15-1143,Computer Network Architects,0.94,116470,55.99,12330
+2017,TX,Texas,15-1151,Computer User Support Specialists,1.13,53480,25.71,57680
+2017,TX,Texas,15-1152,Computer Network Support Specialists,1.09,71940,34.58,16890
+2017,TX,Texas,15-1199,"Computer Occupations, All Other",0.75,90570,43.54,19640
+2017,UT,Utah,15-0000,Computer and Mathematical Occupations,1.15,80650,38.77,48640
+2017,UT,Utah,15-1111,Computer and Information Research Scientists,2.56,96440,46.37,710
+2017,UT,Utah,15-1121,Computer Systems Analysts,0.65,82900,39.86,3750
+2017,UT,Utah,15-1122,Information Security Analysts,0.53,82430,39.63,550
+2017,UT,Utah,15-1131,Computer Programmers,1.54,80930,38.91,3780
+2017,UT,Utah,15-1132,"Software Developers, Applications",1.18,96790,46.53,9930
+2017,UT,Utah,15-1133,"Software Developers, Systems Software",1.31,105220,50.58,5130
+2017,UT,Utah,15-1134,Web Developers,1.5,66490,31.97,1870
+2017,UT,Utah,15-1141,Database Administrators,0.92,92640,44.54,1030
+2017,UT,Utah,15-1142,Network and Computer Systems Administrators,0.93,80740,38.82,3450
+2017,UT,Utah,15-1143,Computer Network Architects,0.6,109700,52.74,940
+2017,UT,Utah,15-1151,Computer User Support Specialists,1.43,50650,24.35,8710
+2017,UT,Utah,15-1152,Computer Network Support Specialists,1.08,58660,28.2,1990
+2017,UT,Utah,15-1199,"Computer Occupations, All Other",1.65,78500,37.74,5170
+2017,VT,Vermont,15-0000,Computer and Mathematical Occupations,0.8,73330,35.25,7280
+2017,VT,Vermont,15-1121,Computer Systems Analysts,0.45,79670,38.3,560
+2017,VT,Vermont,15-1122,Information Security Analysts,0.47,84360,40.56,110
+2017,VT,Vermont,15-1131,Computer Programmers,0.91,69140,33.24,480
+2017,VT,Vermont,15-1132,"Software Developers, Applications",0.47,94940,45.65,860
+2017,VT,Vermont,15-1133,"Software Developers, Systems Software",0.95,*,*,800
+2017,VT,Vermont,15-1134,Web Developers,1.57,65230,31.36,420
+2017,VT,Vermont,15-1141,Database Administrators,0.89,76860,36.95,220
+2017,VT,Vermont,15-1142,Network and Computer Systems Administrators,1.85,72560,34.88,1490
+2017,VT,Vermont,15-1143,Computer Network Architects,0.36,84260,40.51,120
+2017,VT,Vermont,15-1151,Computer User Support Specialists,0.93,52870,25.42,1230
+2017,VT,Vermont,15-1152,Computer Network Support Specialists,0.95,50860,24.45,380
+2017,VT,Vermont,15-1199,"Computer Occupations, All Other",0.56,71000,34.13,380
+2017,VA,Virginia,15-0000,Computer and Mathematical Occupations,1.78,100830,48.47,201680
+2017,VA,Virginia,15-1111,Computer and Information Research Scientists,3.6,128950,62,2670
+2017,VA,Virginia,15-1121,Computer Systems Analysts,1.79,100090,48.12,27760
+2017,VA,Virginia,15-1122,Information Security Analysts,4.71,110450,53.1,13190
+2017,VA,Virginia,15-1131,Computer Programmers,**,95520,45.92,**
+2017,VA,Virginia,15-1132,"Software Developers, Applications",1.59,111010,53.37,35960
+2017,VA,Virginia,15-1133,"Software Developers, Systems Software",2.35,121560,58.44,24650
+2017,VA,Virginia,15-1134,Web Developers,1.11,85870,41.29,3720
+2017,VA,Virginia,15-1141,Database Administrators,1.91,97050,46.66,5760
+2017,VA,Virginia,15-1142,Network and Computer Systems Administrators,1.96,94380,45.37,19510
+2017,VA,Virginia,15-1143,Computer Network Architects,2.43,117700,56.58,10180
+2017,VA,Virginia,15-1151,Computer User Support Specialists,1.21,55960,26.9,19750
+2017,VA,Virginia,15-1152,Computer Network Support Specialists,1.48,76240,36.65,7330
+2017,VA,Virginia,15-1199,"Computer Occupations, All Other",1.55,104680,50.33,13040
+2017,WA,Washington,15-0000,Computer and Mathematical Occupations,1.65,107020,51.45,157400
+2017,WA,Washington,15-1111,Computer and Information Research Scientists,2.15,135240,65.02,1340
+2017,WA,Washington,15-1121,Computer Systems Analysts,1.36,94470,45.42,17660
+2017,WA,Washington,15-1122,Information Security Analysts,0.94,106040,50.98,2200
+2017,WA,Washington,15-1131,Computer Programmers,1.9,121000,58.17,10500
+2017,WA,Washington,15-1132,"Software Developers, Applications",2.71,131430,63.19,51540
+2017,WA,Washington,15-1133,"Software Developers, Systems Software",1.66,117810,56.64,14640
+2017,WA,Washington,15-1134,Web Developers,2,92260,44.35,5640
+2017,WA,Washington,15-1141,Database Administrators,0.86,98120,47.18,2190
+2017,WA,Washington,15-1142,Network and Computer Systems Administrators,1.1,90290,43.41,9200
+2017,WA,Washington,15-1143,Computer Network Architects,1.86,104890,50.43,6570
+2017,WA,Washington,15-1151,Computer User Support Specialists,1.22,61610,29.62,16740
+2017,WA,Washington,15-1152,Computer Network Support Specialists,0.89,76970,37,3690
+2017,WA,Washington,15-1199,"Computer Occupations, All Other",1.55,90590,43.55,10940
+2017,WV,West Virginia,15-0000,Computer and Mathematical Occupations,0.53,69750,33.53,10880
+2017,WV,West Virginia,15-1121,Computer Systems Analysts,0.41,72420,34.82,1150
+2017,WV,West Virginia,15-1122,Information Security Analysts,0.49,78680,37.83,250
+2017,WV,West Virginia,15-1131,Computer Programmers,0.56,80420,38.66,670
+2017,WV,West Virginia,15-1132,"Software Developers, Applications",0.29,86390,41.53,1200
+2017,WV,West Virginia,15-1133,"Software Developers, Systems Software",0.25,92710,44.57,490
+2017,WV,West Virginia,15-1134,Web Developers,0.42,54410,26.16,260
+2017,WV,West Virginia,15-1141,Database Administrators,0.79,66230,31.84,430
+2017,WV,West Virginia,15-1142,Network and Computer Systems Administrators,0.68,66190,31.82,1230
+2017,WV,West Virginia,15-1143,Computer Network Architects,0.34,*,*,260
+2017,WV,West Virginia,15-1151,Computer User Support Specialists,0.68,44030,21.17,2010
+2017,WV,West Virginia,15-1152,Computer Network Support Specialists,0.72,50090,24.08,650
+2017,WV,West Virginia,15-1199,"Computer Occupations, All Other",1.25,86630,41.65,1900
+2017,WI,Wisconsin,15-0000,Computer and Mathematical Occupations,0.9,74520,35.82,76080
+2017,WI,Wisconsin,15-1111,Computer and Information Research Scientists,0.37,75260,36.18,200
+2017,WI,Wisconsin,15-1121,Computer Systems Analysts,1.24,80640,38.77,14270
+2017,WI,Wisconsin,15-1122,Information Security Analysts,0.6,75820,36.45,1260
+2017,WI,Wisconsin,15-1131,Computer Programmers,1.11,76190,36.63,5450
+2017,WI,Wisconsin,15-1132,"Software Developers, Applications",0.94,85580,41.14,15840
+2017,WI,Wisconsin,15-1133,"Software Developers, Systems Software",0.51,87300,41.97,4000
+2017,WI,Wisconsin,15-1134,Web Developers,1.16,52810,25.39,2890
+2017,WI,Wisconsin,15-1141,Database Administrators,0.76,81220,39.05,1700
+2017,WI,Wisconsin,15-1142,Network and Computer Systems Administrators,0.91,73710,35.44,6760
+2017,WI,Wisconsin,15-1143,Computer Network Architects,0.66,93490,44.95,2060
+2017,WI,Wisconsin,15-1151,Computer User Support Specialists,0.95,50980,24.51,11550
+2017,WI,Wisconsin,15-1152,Computer Network Support Specialists,1.04,63980,30.76,3820
+2017,WI,Wisconsin,15-1199,"Computer Occupations, All Other",0.6,71920,34.58,3750
+2017,WY,Wyoming,15-0000,Computer and Mathematical Occupations,0.33,64030,30.79,2660
+2017,WY,Wyoming,15-1121,Computer Systems Analysts,0.14,77430,37.23,150
+2017,WY,Wyoming,15-1122,Information Security Analysts,0.16,72180,34.7,30
+2017,WY,Wyoming,15-1131,Computer Programmers,0.47,65480,31.48,220
+2017,WY,Wyoming,15-1132,"Software Developers, Applications",0.16,69380,33.36,250
+2017,WY,Wyoming,15-1133,"Software Developers, Systems Software",0.13,89420,42.99,100
+2017,WY,Wyoming,15-1134,Web Developers,0.48,70400,33.85,110
+2017,WY,Wyoming,15-1141,Database Administrators,0.96,61850,29.74,200
+2017,WY,Wyoming,15-1142,Network and Computer Systems Administrators,0.75,66520,31.98,530
+2017,WY,Wyoming,15-1143,Computer Network Architects,0.14,*,*,40
+2017,WY,Wyoming,15-1151,Computer User Support Specialists,0.51,48630,23.38,590
+2017,WY,Wyoming,15-1152,Computer Network Support Specialists,0.69,58250,28,240
+2017,WY,Wyoming,15-1199,"Computer Occupations, All Other",0.23,73990,35.57,140

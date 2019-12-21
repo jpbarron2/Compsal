@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <title>Document</title>
+    <script>
+        $(document).ready(function() {
+            var st1 = "WA";
+            var st2;
+            var color="greens";
+            $("select").formSelect();
+            $(".dropdown-trigger").dropdown();
+            $('#dropdown2').on('change', function(e) {
+                e.preventDefault()
+                color = $(this).val();
+                console.log(color)
+                $.ajax({
+                    url: `/color/${color}`,
+                    method: "get",
+                    data: ""
+                    })
+                })
+                $("#state1").on("change", function() {
+                    st1 = $(this).val();
+                    console.log(st1);
+                });
+                $("#state2").on("change", function(e) {
+                    e.preventDefault();
+                    st2 = $(this).val();
+            console.log(st2);
+            $.ajax({
+                url: `/test/${st1}/${st2}`,
+                method: "get",
+                data: "",
+                success: function(serverResponse) {
+                    $("#popgraph").html(serverResponse);
+                }
+            });
+            console.log("list item selected");
+            });
+        });
+    </script>
+    <style>
+        .dropdown-content li > option, .dropdown-content li > option {
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav class="z-depth-0 grey lighten-1">
+        <div class="nav-wrapper ">
+            <span class="brand-logo left black-text">CompSal</span>
+            <ul id="nav-mobile" class="right">
+            <div class="input-field col s6">
+            <select name="color" id="dropdown2" >
+                <li><option value="" selected disabled>Colorblind Mode</option></li>
+                <li><option value="greens">Trichromatic</option></li>
+                <li><option value="blues" >Deuteranopia</option></li>
+                <li><option value="blues">Protanopia</option></li>
+                <li><option value="reds" >Tritanopia</option></li>
+                
+            </select>
+            </div>
+            </ul>
+        </div>
+    </nav>
+    <div class="row">
+        <div class="col s8">
+            {{ map | safe }}
+        </div>
+        <div class="col s4">
+            <p>Pick a state to compare values</p>
+            <div class="input-field col s6">
+            <select name="state" id="state1">
+                <option value="WA" selected>Washington</option>
+                {% for key, value in statesNoWA.items %}
+                <option value="{{ value }}">{{ key }}</option>
+                {% endfor %}
+            </select>
+            <label for="state">State</label>
+            </div>
+            <div class="input-field col s6">
+            <select type="text" name="state" id="state2">
+                <option value="CA" selected>California</option>
+                {% for key, value in states.items %}
+                <option value="{{ value }}">{{ key }}</option>
+                {% endfor %}
+            </select>
+            <label for="state2">Compare State</label>
+            </div>
+            <button class="btn grey lighten-1 black-text" onclick="window.location.href='/'">Submit</button>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col s12">
+            {{ line_graph | safe }}
+        </div>
+    </div>
+    <div id="popgraph"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</body>
+</html>

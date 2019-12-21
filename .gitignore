@@ -1,0 +1,8 @@
+.vscode
+env/
+venv/
+.vscode/
+db.sqlite3 
+/__pycache__
+/apps/map/__pycache__
+*.pyc

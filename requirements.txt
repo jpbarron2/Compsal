@@ -9,7 +9,7 @@ Click==7.0
 Django==1.11
 numpy==1.17.4
 pandas==0.25.3
-pipenv==2018.11.26
+pipenv==2022.1.8
 plotly==4.4.1
 pycodestyle==2.5.0
 pycparser==2.19
